@@ -1,0 +1,9 @@
+{
+    "canisters": {
+        "my_canister": {
+            "main": "Capstone.mo",
+            "type": "motoko"
+        }
+        
+    }
+}
